@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">Tawk</string>
+    <string name="title_activity_main">Tawk</string>
 </resources>
