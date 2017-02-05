@@ -1,4 +1,40 @@
 <resources>
-    <string name="app_name">Tawk</string>
-    <string name="title_activity_main">Tawk</string>
+    <string name="app_name">TAWK</string>
+    <string name="caption_splash_activity">Taking the awkwardness out of tawking about you</string>
+    <string name= "button_register_name">Register</string>
+    <string name= "button_login_name">Login</string>
+    <string name= "second_page_first_button">My Profile</string>
+    <string name= "second_page_second_button">Information Page</string>
+    <string name= "second_page_third_button">Mood Quiz</string>
+    <string name= "quiz_header">Mood Quiz: POMS</string>
+    <string name= "question_banner">Below is a list of words that describe feelings people have. Please click the number that best describes how you feel right now:</string>
+    <string name= "quiz_item_1">Tense</string>
+    <!--  each item should be located on the left side of the screen; responses should be placed horizontally across the screen; see link in google doc for details  -->
+    <string name= "quiz_item_2">Angry</string>
+    <string name= "quiz_item_3">Worn out</string>
+    <string name= "quiz_item_4">Unhappy</string>
+    <string name= "quiz_item_5">Proud</string>
+    <string name= "quiz_item_6">Lively</string>
+    <string name= "quiz_item_7">Confused</string>
+    <string name= "quiz_item_8">Sad</string>
+    <string name= "quiz_item_9">Active</string>
+    <string name= "quiz_item_10">On-edge</string>
+    <string name= "quiz_item_11">Grouchy</string>
+    <string name= "quiz_item_12">Ashamed</string>
+    <string name= "quiz_item_13">Energetic</string>
+    <string name= "quiz_item_14">Hopeless</string>
+    <string name= "quiz_item_15">Uneasy</string>
+    <string name= "quiz_item_16">Restless</string>
+    <string name= "quiz_item_17">Unable to concentrate</string>
+    <string name= "quiz_item_18">Fatigued</string>
+    <string name= "quiz_item_19">Competent</string>
+    <string name= "quiz_item_20">Annoyed</string>
+    <string name= "quiz_item_21">Discouraged</string>
+    <string name= "quiz_item_22">Resentful</string>
+    <string name= "quiz_item_23">Nervous</string>
+    <string name= "quiz_item_24">Miserable</string>
+    <string name= "quiz_item_25">Confident</string>
+    <string name= "quiz_item_26">Bitter</string>
+    <string name= "quiz_item_27">Exhausted</string>
+    <string name= "quiz_item_28">Unhappy</string>
 </resources>
