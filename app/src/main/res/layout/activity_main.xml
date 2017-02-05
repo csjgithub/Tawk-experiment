@@ -4,17 +4,65 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/splashBackgroundColor"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="@color/splashBackgroundColor"
     tools:context="com.tawk.carl.myapplication.SplashActivity">
+
     <ImageView
-        android:src="@drawable/tawk_logo"
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
-        android:layout_height="wrap_content" />
+        android:src="@drawable/tawk_logo"
+        android:id="@+id/logo"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:text="@string/caption_splash_activity"
+        android:gravity="center"
+        android:id="@+id/captiontext"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/email"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/captiontext"
+        android:hint="Type your name"
+
+
+
+/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+
+        <Button
+            android:id="@+id/tawklogin"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_weight="0.5"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_launch"
+            android:text="@string/button_login_name" />
+
+        <Button
+            android:id="@+id/tawkregister"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_weight="0.5"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_launch"
+            android:text="@string/button_register_name"
+            android:visibility="gone"/>
+    </LinearLayout>
 
 </RelativeLayout>
+
