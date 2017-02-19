@@ -1,40 +1,57 @@
 <resources>
     <string name="app_name">TAWK</string>
     <string name="caption_splash_activity">Taking the awkwardness out of tawking about you</string>
-    <string name= "button_register_name">Register</string>
-    <string name= "button_login_name">Login</string>
-    <string name= "second_page_first_button">My Profile</string>
-    <string name= "second_page_second_button">Information Page</string>
-    <string name= "second_page_third_button">Mood Quiz</string>
-    <string name= "quiz_header">Mood Quiz: POMS</string>
-    <string name= "question_banner">Below is a list of words that describe feelings people have. Please click the number that best describes how you feel right now:</string>
-    <string name= "quiz_item_1">Tense</string>
+    <string name="button_register_name">Register</string>
+    <string name="button_login_name">Login</string>
+    <string name ="button_logout_name">Logout</string>
+    <string name="second_page_first_button">My Profile</string>
+    <string name="second_page_second_button">Information Page</string>
+    <string name="second_page_third_button">Mood Quiz</string>
+    <string name="quiz_header">Mood Quiz: POMS</string>
+    <string name="question_banner">Below is a list of words that describe feelings people have. Please click the number that best describes how you feel right now:</string>
+    <string name="quiz_item_1">Tense</string>
     <!--  each item should be located on the left side of the screen; responses should be placed horizontally across the screen; see link in google doc for details  -->
-    <string name= "quiz_item_2">Angry</string>
-    <string name= "quiz_item_3">Worn out</string>
-    <string name= "quiz_item_4">Unhappy</string>
-    <string name= "quiz_item_5">Proud</string>
-    <string name= "quiz_item_6">Lively</string>
-    <string name= "quiz_item_7">Confused</string>
-    <string name= "quiz_item_8">Sad</string>
-    <string name= "quiz_item_9">Active</string>
-    <string name= "quiz_item_10">On-edge</string>
-    <string name= "quiz_item_11">Grouchy</string>
-    <string name= "quiz_item_12">Ashamed</string>
-    <string name= "quiz_item_13">Energetic</string>
-    <string name= "quiz_item_14">Hopeless</string>
-    <string name= "quiz_item_15">Uneasy</string>
-    <string name= "quiz_item_16">Restless</string>
-    <string name= "quiz_item_17">Unable to concentrate</string>
-    <string name= "quiz_item_18">Fatigued</string>
-    <string name= "quiz_item_19">Competent</string>
-    <string name= "quiz_item_20">Annoyed</string>
-    <string name= "quiz_item_21">Discouraged</string>
-    <string name= "quiz_item_22">Resentful</string>
-    <string name= "quiz_item_23">Nervous</string>
-    <string name= "quiz_item_24">Miserable</string>
-    <string name= "quiz_item_25">Confident</string>
-    <string name= "quiz_item_26">Bitter</string>
-    <string name= "quiz_item_27">Exhausted</string>
-    <string name= "quiz_item_28">Unhappy</string>
+    <string name="quiz_item_2">Angry</string>
+    <string name="quiz_item_3">Worn out</string>
+    <string name="quiz_item_4">Unhappy</string>
+    <string name="quiz_item_5">Proud</string>
+    <string name="quiz_item_6">Lively</string>
+    <string name="quiz_item_7">Confused</string>
+    <string name="quiz_item_8">Sad</string>
+    <string name="quiz_item_9">Active</string>
+    <string name="quiz_item_10">On-edge</string>
+    <string name="quiz_item_11">Grouchy</string>
+    <string name="quiz_item_12">Ashamed</string>
+    <string name="quiz_item_13">Energetic</string>
+    <string name="quiz_item_14">Hopeless</string>
+    <string name="quiz_item_15">Uneasy</string>
+    <string name="quiz_item_16">Restless</string>
+    <string name="quiz_item_17">Unable to concentrate</string>
+    <string name="quiz_item_18">Fatigued</string>
+    <string name="quiz_item_19">Competent</string>
+    <string name="quiz_item_20">Annoyed</string>
+    <string name="quiz_item_21">Discouraged</string>
+    <string name="quiz_item_22">Resentful</string>
+    <string name="quiz_item_23">Nervous</string>
+    <string name="quiz_item_24">Miserable</string>
+    <string name="quiz_item_25">Confident</string>
+    <string name="quiz_item_26">Bitter</string>
+    <string name="quiz_item_27">Exhausted</string>
+    <string name="quiz_item_28">Unhappy</string>
+    <string name="fourth_button">Fourth Button</string>
+    <string name="information_text">        	<p>Here are some simple ways to practice mental fitness:</p>
+<ul>
+<li><strong>Daydream</strong> – Close your eyes and imagine yourself in a dream location. Breathe slowly and deeply. Whether it’s a beach, a mountaintop, a hushed forest or a favourite room from your past, let the comforting environment wrap you in a sensation of peace and tranquility.</li>
+<li><strong>“Collect” positive emotional moments</strong> – Make it a point to recall times when you have experienced pleasure, comfort, tenderness, confidence, or other positive emotions.</li>
+<li><strong>Learn ways to cope with negative thoughts</strong> – Negative thoughts can be insistent and loud. Learn to interrupt them. Don’t try to block them (that never works), but don’t let them take over. Try distracting yourself or comforting yourself, if you can’t solve the problem right away.</li>
+<li><strong>Do one thing at a time</strong> – For example, when you are out for a walk or spending time with friends, turn off your cell phone and stop making that mental “to do” list. Take in all the sights, sounds and smells you encounter.</li>
+<li><strong>Exercise</strong> – Regular physical activity improves psychological well-being and can reduce depression and anxiety. Joining an exercise group or a gym can also reduce loneliness, since it connects you with a new set of people sharing a common goal.</li>
+<li><strong>Enjoy hobbies</strong> – Taking up a hobby brings balance to your life by allowing you to do something you enjoy because you want to do it, free of the pressure of everyday tasks. It also keeps your brain active.</li>
+<li><strong>Set personal goals</strong> – Goals don’t have to be ambitious. You might decide to finish that book you started three years ago; to take a walk around the block every day; to learn to knit or play bridge; to call your friends instead of waiting for the phone to ring. Whatever goal you set, reaching it will build confidence and a sense of satisfaction.</li>
+<li><strong>Keep a journal</strong> – Expressing yourself after a stressful day can help you gain perspective, release tension and even boost your body’s resistance to illness.</li>
+<li><strong>Share humour</strong> – Life often gets too serious, so when you hear or see something that makes you smile or laugh, share it with someone you know. A little humour can go a long way to keeping us mentally fit!</li>
+<li><strong>Volunteer</strong> – Volunteering is called the “win-win” activity because helping others makes us feel good about ourselves. At the same time, it widens our social network, provides us with new learning experiences and can bring balance to our lives.</li>
+<li><strong>Treat yourself well</strong> – Cook yourself a good meal. Have a bubble bath. See a movie. Call a friend or relative you haven’t talked to in ages. Sit on a park bench and breathe in the fragrance of flowers and grass. Whatever it is, do it just for you.</li>
+</ul></string>
+    <string name="not_implemented_text">this button has not been implemented yet</string>
 </resources>
