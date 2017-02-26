@@ -1,4 +1,4 @@
-package com.tawk.carl.myapplication;
+package com.tawk.experiment.application;
 
 import org.junit.Test;
 

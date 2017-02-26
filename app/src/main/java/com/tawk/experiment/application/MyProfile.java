@@ -1,10 +1,9 @@
-package com.tawk.carl.myapplication;
+package com.tawk.experiment.application;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.TextView;
 
 public class MyProfile extends AppCompatActivity {
