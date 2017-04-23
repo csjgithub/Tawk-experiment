@@ -1,4 +1,4 @@
-package com.tawk.carl.myapplication;
+package com.tawk.experiment.application;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,7 +10,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageButton;
 import android.widget.Toast;
 
 import com.facebook.AccessToken;

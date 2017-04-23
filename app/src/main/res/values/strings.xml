@@ -40,6 +40,18 @@
     <string name="quiz_item_26">Bitter</string>
     <string name="quiz_item_27">Exhausted</string>
     <string name="quiz_item_28">Unhappy</string>
+    <string name= "quiz_item_29">Helpless</string>
+    <string name= "quiz_item_30">Weary</string>
+    <string name= "quiz_item_31">Satisfied</string>
+    <string name= "quiz_item_32">Bewildered</string>
+    <string name= "quiz_item_33">Furious</string>
+    <string name= "quiz_item_34">Full of pep</string>
+    <string name= "quiz_item_35">Worthless</string>
+    <string name= "quiz_item_36">Forgetful</string>
+    <string name= "quiz_item_37">Vigorous</string>
+    <string name= "quiz_item_38">Uncertain about things</string>
+    <string name= "quiz_item_39">Bushed</string>
+    <string name= "quiz_item_40">Embarrassed</string>
     <string name="fourth_button">Fourth Button</string>
     <string name="information_text">        	<p>Here are some simple ways to practice mental fitness:</p>
 <ul>
