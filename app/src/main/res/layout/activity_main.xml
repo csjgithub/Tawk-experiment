@@ -10,6 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.tawk.carl.myapplication.SplashActivity">
 
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -25,44 +26,15 @@
         android:gravity="center"
         android:id="@+id/captiontext"
         />
-    <EditText
-        android:layout_width="match_parent"
-        android:id="@+id/email"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/captiontext"
-        android:hint="Type your name"
-
-
-
-/>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true">
-
-
-        <Button
-            android:id="@+id/tawklogin"
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:layout_weight="0.5"
-            android:scaleType="centerInside"
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:src="@drawable/ic_launch"
             android:text="@string/button_login_name"
-            style="@style/roundbuttonstyle"/>
+            android:layout_centerHorizontal="true"/>
 
-        <Button
-            android:id="@+id/tawkregister"
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:layout_weight="0.5"
-            android:scaleType="centerInside"
-            android:src="@drawable/ic_launch"
-            android:text="@string/button_register_name"
-            android:visibility="gone"/>
-    </LinearLayout>
 
 </RelativeLayout>
 

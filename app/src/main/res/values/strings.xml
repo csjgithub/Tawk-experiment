@@ -3,6 +3,8 @@
     <string name="caption_splash_activity">Taking the awkwardness out of tawking about you</string>
     <string name="button_register_name">Register</string>
     <string name="button_login_name">Login</string>
+    <string name="facebook_app_id">675573022621627</string>
+    <string name="fb_login_protocol_scheme">fb675573022621627</string>
     <string name ="button_logout_name">Logout</string>
     <string name="second_page_first_button">My Profile</string>
     <string name="second_page_second_button">Information Page</string>
